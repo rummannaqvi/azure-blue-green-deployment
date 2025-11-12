@@ -77,5 +77,3 @@ When finished:
    cd envs/prod
    terraform destroy
 ```
-## 🧾 License
-MIT License © 2025 Rumman Naqvi
